@@ -9,6 +9,7 @@ public class Test1 {
 
     // Case 3: Static blocks
     // static initialization block
+    static
     {
         i = 10;
         System.out.println("static block called ");
