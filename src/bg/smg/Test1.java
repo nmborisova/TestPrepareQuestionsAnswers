@@ -14,7 +14,7 @@ public class Test1 {
         System.out.println("static block called ");
     }
 
-    // static initialization block
+    // instance initialization block
     {
         j=2;
         System.out.println("int");
