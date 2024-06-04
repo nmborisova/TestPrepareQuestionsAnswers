@@ -17,7 +17,7 @@ public class Test1 {
     // instance initialization block
     {
         j=2;
-        System.out.println("int");
+        System.out.println("instance block called");
     }
 
     // Constructor calling
